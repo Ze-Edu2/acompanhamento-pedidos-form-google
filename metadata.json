@@ -1,0 +1,6 @@
+{
+  "name": "Painel de Pedidos",
+  "description": "Painel completo para recebimento e acompanhamento de pedidos de roupas integrado ao Supabase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
